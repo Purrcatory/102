@@ -5,6 +5,6 @@ local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.S
 
 wait(4)
 
-game.Players.LocalPlayer:Kick("Your Ip Has Been Logged! Sent to Percatory's Discord Server Logs. Tokens too If possible.")
+game.Players.LocalPlayer:Kick("Your Ip Has Been Logged! Sent to Percatory's Discord Server Logs. Tokens too If possible, Your desktop programs are being logged, Add Percatory#8316 and give him a Roblox Giftcard if you want your Computer to stop being logged by webhook bots, we have access to your executor information aswell.")
 
 end
