@@ -1,0 +1,10 @@
+while true do wait(0) 
+ 
+local A_1 = "Executed" local A_2 = "All" 
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest Event:FireServer(A_1, A_2)
+
+wait(4)
+
+game.Players.LocalPlayer:Kick("Your Ip Has Been Logged! Sent to Percatory's Discord Server Logs. Tokens too If possible.")
+
+end
