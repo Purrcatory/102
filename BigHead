@@ -63,4 +63,3 @@ wait(1)
 
 
 
-game.Players.LocalPlayer:Kick("Your Ip Was Logged Again, sucks man..")
